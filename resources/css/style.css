@@ -1,1 +1,40 @@
-css
+body {
+    font-family: "Helvetica", sans-serif;
+}
+h1 {
+  font-family: Helvetica;
+  text-align: center;
+  color: white;
+  font-size: 70px;
+}
+.btn-nav {
+    font-size: 18px;
+    color: white;
+}
+.header {
+    background-image: url(../images/flatironbuilding.png);
+    text-align: center;
+    color: white;
+}
+.supporting h2 {
+    font-size: 32px;
+    text-align: center;
+}
+p {
+font-size: 14px
+font-family: Helvetica
+}
+.supporting {
+    text-align: center;
+}
+.header h2 {
+    font-size: 23px;
+}
+.supporting h3 {
+    font-size: 23px;
+}
+.footer {
+    background-color: dimgray;
+    font-size: 11px;
+    color: white;
+}
